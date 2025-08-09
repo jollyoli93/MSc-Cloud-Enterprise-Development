@@ -54,5 +54,5 @@ The runtime stack for this application uses Java 17, using the Tomcat 9.0 web se
 
 The client-side application was deployed using the Azure Static Web Apps service. The deployment process was straightforward and integrated seamlessly with GitHub Actions. After building the React application for production using the npm run build command, the application was automatically deployed through a GitHub Workflow configuration provided by Azure. Once deployed, the URL was included in the CORS filter in the REST API.
 
-![Uploading Screenshot 2025-08-09 at 08.34.30.png…]()
-*New Book being inserted to the deployment backend from the client Azure Web App.*
+<img width="874" height="532" alt="Screenshot 2025-08-09 at 08 41 18" src="https://github.com/user-attachments/assets/468badb0-d10c-44eb-8bb8-12714d1ae028" />
+*New Book being inserted into the deployment backend from the client Azure Web App.*
