@@ -29,14 +29,15 @@ through screenshots and write-ups.
 ### Books Listing View
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/0b728256-d97e-4233-8678-133a0422c288" />
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/984f4559-49d6-40f1-8cfa-5596135a4074" />
+<img width="1702" height="952" alt="image" src="https://github.com/user-attachments/assets/8d5aa691-bf22-4ccb-b1fc-9a20115e2933" />
 
 <br/>
 ### Genre Listing View
 
 Showing all genres using reusable cards.
 <img width="941" height="539" alt="image" src="https://github.com/user-attachments/assets/32a85108-e466-4b33-af6f-ef469a4e94c0" />
+<img width="1703" height="1022" alt="image" src="https://github.com/user-attachments/assets/6bf33b05-79af-4ef0-8a8b-55990d39a13c" />
 
-<br/>
 ### CRUD
 All CRUD operations can be served with JSON, XML and a Custom Text format with a dropdown selector.
 <img width="953" height="604" alt="Screenshot 2025-08-09 at 08 21 11" src="https://github.com/user-attachments/assets/ee0c0654-e4dd-4a27-afeb-dde33a0adca2" />
