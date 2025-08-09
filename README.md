@@ -17,3 +17,5 @@ specific problem, system or use case.
 
 Due to university guidelines on academic dishonesty I can't provide the raw code but will demonstrate my learning
 throughout screenshots and write ups.
+
+<img width="1000" height="605" alt="Screenshot 2025-08-09 at 08 09 47" src="https://github.com/user-attachments/assets/10916b66-c06c-4232-9eaa-7400165fb6f2" />
