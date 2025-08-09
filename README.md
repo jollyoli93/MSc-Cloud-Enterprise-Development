@@ -32,5 +32,7 @@ through screenshots and write-ups.
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/984f4559-49d6-40f1-8cfa-5596135a4074" />
 
 ### CRUD
+All CRUD operations can be served with JSON, XML and a Custom Text format with a dropdown selector.
+<img width="953" height="604" alt="Screenshot 2025-08-09 at 08 21 11" src="https://github.com/user-attachments/assets/ee0c0654-e4dd-4a27-afeb-dde33a0adca2" />
 
 
