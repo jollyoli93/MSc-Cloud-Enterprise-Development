@@ -38,7 +38,7 @@ parsing.
 
 To enable the passing of data between the client and server side, I have created my
 own library of tools to help parse and convert the text back into a native Java book
-object.
+object, making use of the hashmap data structure.
 
 <img width="713" height="758" alt="Screenshot 2025-08-09 at 15 40 05" src="https://github.com/user-attachments/assets/e4085ce9-b9d3-4b50-878c-765fda612b65" />
 
