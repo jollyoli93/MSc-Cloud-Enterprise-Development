@@ -19,6 +19,11 @@ Allows globally accessible variables across the application without having to pa
 
 
 ## Hook Pattern
-Not officially a design pattern, but replaces many other patterns (Such as Container-Presenter), it is used to manage state and side effect of functional components
+Not officially a design pattern, but replaces many other patterns (Such as Container-Presenter), it is used to manage state and sideeffects of functional components
 
 <img width="837" height="487" alt="Screenshot 2025-08-09 at 13 18 28" src="https://github.com/user-attachments/assets/d0858d5d-f0be-4cbc-82be-85ef1f392d78" />
+
+## Atomic Design
+Throughout this React project, I implemented and made use of the Atomic Design Principles by Brad Frost, inspired by principles of chemistry. Which I find really helps me keep a structured organisation of my React components.
+
+<img width="611" height="902" alt="Screenshot 2025-08-09 at 15 15 53" src="https://github.com/user-attachments/assets/c9cba880-5c40-4eab-8c65-942baf998217" />
