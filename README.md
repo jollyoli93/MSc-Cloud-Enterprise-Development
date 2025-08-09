@@ -25,12 +25,19 @@ through screenshots and write-ups.
 <img width="1000" height="605" alt="Screenshot 2025-08-09 at 08 09 47" src="https://github.com/user-attachments/assets/10916b66-c06c-4232-9eaa-7400165fb6f2" />
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/a00a0193-6f74-42a7-9cd4-7493178eb415" />
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/f22a58ee-50e1-4a55-86f4-e5e53aa8c7bc" />
-
+</br>
 
 ### Books Listing View
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/0b728256-d97e-4233-8678-133a0422c288" />
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/984f4559-49d6-40f1-8cfa-5596135a4074" />
 
+</br>
+### Genre Listing View
+
+Showing all genres using reusable cards.
+<img width="941" height="539" alt="image" src="https://github.com/user-attachments/assets/32a85108-e466-4b33-af6f-ef469a4e94c0" />
+
+</br>
 ### CRUD
 All CRUD operations can be served with JSON, XML and a Custom Text format with a dropdown selector.
 <img width="953" height="604" alt="Screenshot 2025-08-09 at 08 21 11" src="https://github.com/user-attachments/assets/ee0c0654-e4dd-4a27-afeb-dde33a0adca2" />
