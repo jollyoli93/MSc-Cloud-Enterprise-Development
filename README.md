@@ -21,8 +21,7 @@ through screenshots and write-ups.
 ## Bookshop Overview
 
 ### Front Page
-
-<img width="1000" height="605" alt="Screenshot 2025-08-09 at 08 09 47" src="https://github.com/user-attachments/assets/10916b66-c06c-4232-9eaa-7400165fb6f2" />
+<img width="1710" height="1026" alt="image" src="https://github.com/user-attachments/assets/6bc0d470-e7b4-4bf6-8138-56ce3ca2072b" />
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/a00a0193-6f74-42a7-9cd4-7493178eb415" />
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/f22a58ee-50e1-4a55-86f4-e5e53aa8c7bc" />
 <br/>
