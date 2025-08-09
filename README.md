@@ -2,10 +2,10 @@
 
 ## Online Bookstop
 
-The purpose of this assignment is to demonstrate my ability to implement highly scalable web applications built
-using the two prominent architectural styles (MVC and RESTful web services) using Java and Tomcat Servlets. The RESTful web
-service will serve data in three formats (JSON, XML and Text), which will then be consumed by a
-JS client application that will facilitate full CRUD functionality on the database.
+The purpose of this assignment is to demonstrate my ability to implement highly scalable web applications built using the two prominent architectural styles (MVC and RESTful web services) using Java and Tomcat Servlets. Throughout the project I keep in mind Object Orientated SOLID principles and make use of common design patterns where required.
+
+The RESTful web service will serve data in three formats (JSON, XML and Text), which will then be consumed by a
+JS client application that will facilitate full CRUD functionality on the database. 
 
 Learning outcomes being assessed:
 1. Create highly scalable software solutions using contemporary cloud computing services and tools.
