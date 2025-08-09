@@ -1,3 +1,7 @@
+# MSc Cloud and Enterprise Development
+
+## Online Bookstore
+
 The purpose of this assignment is to demonstrate my ability to implement highly scalable web applications build
 using the two prominent architectural styles (MVC and RESTful web services). The RESTful web
 service will serve data in three formats (JSON, XML and Text) which will then be consumed by a
