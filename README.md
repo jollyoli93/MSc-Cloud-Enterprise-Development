@@ -1,10 +1,10 @@
 # MSc Cloud and Enterprise Development
 
-## Online Bookstore
+## Online Bookstop
 
-The purpose of this assignment is to demonstrate my ability to implement highly scalable web applications build
-using the two prominent architectural styles (MVC and RESTful web services). The RESTful web
-service will serve data in three formats (JSON, XML and Text) which will then be consumed by a
+The purpose of this assignment is to demonstrate my ability to implement highly scalable web applications built
+using the two prominent architectural styles (MVC and RESTful web services) using Java and Tomcat Servlets. The RESTful web
+service will serve data in three formats (JSON, XML and Text), which will then be consumed by a
 JS client application that will facilitate full CRUD functionality on the database.
 
 Learning outcomes being assessed:
@@ -15,7 +15,22 @@ specific problem, system or use case.
 4. Apply knowledge of web services technology to create distributed systems.
 5. Critically analyse and implement Design Patterns in appropriate programming contexts.
 
-Due to university guidelines on academic dishonesty I can't provide the raw code but will demonstrate my learning
-throughout screenshots and write ups.
+Due to university guidelines on academic dishonesty, I can't provide the raw code, but I will demonstrate my learning
+through screenshots and write-ups.
+
+## Bookshop Overview
+
+### Front Page
 
 <img width="1000" height="605" alt="Screenshot 2025-08-09 at 08 09 47" src="https://github.com/user-attachments/assets/10916b66-c06c-4232-9eaa-7400165fb6f2" />
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/a00a0193-6f74-42a7-9cd4-7493178eb415" />
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/f22a58ee-50e1-4a55-86f4-e5e53aa8c7bc" />
+
+
+### Books Listing View
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/0b728256-d97e-4233-8678-133a0422c288" />
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/984f4559-49d6-40f1-8cfa-5596135a4074" />
+
+### CRUD
+
+
